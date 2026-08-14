@@ -102,8 +102,6 @@ The project stores earthquake information in PostgreSQL.
 
 \### Main Tables
 
-
-
 \### Earthquake\_info
 
 
@@ -315,10 +313,3 @@ The project includes SQL queries for:
 \- Daily earthquake trend
 
 \- Pakistan earthquake analysis
-
-
-
-
-
-
-
